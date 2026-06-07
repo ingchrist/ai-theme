@@ -1,0 +1,2 @@
+# ai-theme
+wordpress theme
